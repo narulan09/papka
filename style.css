@@ -1,0 +1,64 @@
+.main {
+	height: 3000px;
+	width: 1100px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.txt-center {
+	text-align: center;
+}
+.one-main {
+	height: 300px;
+	width: 1100px;
+}
+.one {
+	height: 300px;
+	width: 350px;
+	border: solid blue;
+
+}
+.two {
+	height: 300px;
+	width: 700px;
+	margin-left: 50px;
+	border: solid blue;
+}
+.m {
+	height: 150px;
+	width: 1100px;
+}
+.n {
+	height: 300px;
+	width: 535px;s
+}
+.nn {
+	height: 300px;
+	width: 535px;
+	margin-left: 30px;
+}
+.flx {
+	display: flex;
+}
+.a {
+	height: 100px;
+	width: 1100px;
+}
+.b {
+	height: 300px;
+	width: 535px;
+	background: bisque;
+}
+.ddd {
+	height: 550px;
+	width: 1100px;
+	border: solid blue;
+}
+.u {
+	width: 1100px;
+}
+.e {
+	height: 140px;
+	width: 1100px;
+	border: solid blue;
+	display: flex;
+}
